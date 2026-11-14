@@ -12,7 +12,7 @@ I'm a Software Developer obsessed with cats and with programming simple, functio
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Let's see what you need!
+✉️ Let's see what you need!
 
 - alvaroafa1@gmail.com
 
