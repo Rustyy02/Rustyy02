@@ -7,6 +7,6 @@ Maybe that's what good software and cats share, simplicity and elegance.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,java,rust,python"&perline=4 />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,rust,python&perline=4" />
   </a>
 </p>
