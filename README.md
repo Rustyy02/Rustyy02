@@ -1,9 +1,10 @@
 ## Hi! / Hola!
 
 I'm a Software Developer obsessed with cats and with programming simple, functional solutions, no bloat, no unnecessary features.
-Maybe that's what good software and cats share, simplicity and elegance.
 
-## Things I know...
+<p align="center"> Maybe that's what good software and cats share, simplicity and elegance. </p>
+
+## Some things I know
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -11,7 +12,7 @@ Maybe that's what good software and cats share, simplicity and elegance.
   </a>
 </p>
 
-## Things I don't know...
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Let's see what you need!
 
-Many! But that's the idea, right?
+- alvaroafa1@gmail.com
 
