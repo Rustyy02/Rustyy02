@@ -8,7 +8,7 @@ I'm a Software Developer obsessed with cats and with programming simple, functio
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,rust,python,django,postgres,react,sqlite,sklearn&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,rust,python,django,postgres,react,sqlite,sklearn,pytorch&perline=6" />
   </a>
 </p>
 
